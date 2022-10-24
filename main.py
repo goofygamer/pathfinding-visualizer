@@ -669,12 +669,12 @@ def instructions():
     messagebox.showinfo("Instructions", "1. Create a maze by clicking on the grid or choose\n"
                                         "    one of the functions from the drop-down menu\n"
                                         "\n"
-                                        "    You can always edit generated mazes!\n"
+                                        "    You can always edit any genreated mazes\n"
                                         "\n"
-                                        "2. Choose one of two algorithms to find the shortest path\n"
-                                        "     and visualize the search with desired speed of animation\n"
+                                        "2. Choose one of three available algorithms to find the shortest\n"
+                                        "     path and visualize the search with desired speed of animation\n"
                                         "\n"
-                                        "3. Reset the grid if necessary")
+                                        "3. Reset the grid!")
 
 # User interface area
 bldMenu = ttk.Combobox(UI_frame, textvariable=selected_bld, 
