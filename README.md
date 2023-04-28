@@ -1,4 +1,4 @@
-# [Pathfinding Visualizer]
+# Pathfinding Visualizer
 
 This project showcases how different pathfinding algorithms function to connect a starting point to an end point.
 
